@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_e6869e46beffd88b54041ca6c39b5caf46203ca6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="53d3871bc9f7f4d564e1b072f11b787a9db1eb4b">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d2166c5ec46c03a9a1a3987e6af1808db26fe3a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_198531f510156891cc98d710f1a6743c73b37625/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_3d9b074c74d6264847e834b112e86865f08c6c34/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_8a1579cfaca7aabf68e5b23b0bfd8aa4fe5436c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_c83152b6520deaae6d7b61e847562a47e07512a8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.4.0_daaa850d1f7567bdb31c7160eef550174e5e0f83/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ce569255fce01fd9c0ca5eeb69e8baef20dad2e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_4cd91c8b9c32353fd8bd65e0658f3a96cb174ae8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.4.0_fc716b7f5dc7d6106f241d23dada02e910fa2d7d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_2344fc1d53a8d9e9d7888741927845823565d444/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_159db598782b0c67f0fd5be7c2e5c5cfad378a40/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_350a32cb4516498457fe34ad84d39574081e941f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_492e301c12b075aa21923f39fd5b5171c7303cee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9a966bb41d80ad54bd30b29a425473b91d417f7c">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d5adfefae5f7325fd82b60c30a14d9b1ca0bc99b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ed2aba7cbfc391300eab60cc310480759ed62819/classes.dex" />
+    </item>
+    <item
+        jar="/Users/prashant/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_fda4957e9597f7b2304091380bd2e8292174223a/classes.dex" />
+    </item>
+
+</items>
