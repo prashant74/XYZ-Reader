@@ -20,5 +20,6 @@
     <color name="theme_accent">#FF4081</color>
     <color name="indigo_a200">#7986CB</color>
     <color name="text_color">#616161</color>
+    <color name="subtitle_color">#6000</color>
 
 </resources>

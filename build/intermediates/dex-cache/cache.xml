@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
+        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d01645afb9cb888a92dd2301ec3b1b479371d06d">
+        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d2166c5ec46c03a9a1a3987e6af1808db26fe3a/classes.dex" />
+    </item>
+    <item
         jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.1"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
         <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_e6869e46beffd88b54041ca6c39b5caf46203ca6/classes.dex" />
-    </item>
-    <item
-        jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="53d3871bc9f7f4d564e1b072f11b787a9db1eb4b">
-        <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d2166c5ec46c03a9a1a3987e6af1808db26fe3a/classes.dex" />
     </item>
     <item
         jar="/Users/prashant/Downloads/xyzreader/XYZReader/libs/volley.jar"
@@ -103,7 +103,7 @@
         jar="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="9a966bb41d80ad54bd30b29a425473b91d417f7c">
+        sha1="9de4f5b8ff8aa2eb9887b616fd887b2d8e52d753">
         <dex dex="/Users/prashant/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d5adfefae5f7325fd82b60c30a14d9b1ca0bc99b/classes.dex" />
     </item>
     <item

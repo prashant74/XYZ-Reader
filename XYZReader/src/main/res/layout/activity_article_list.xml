@@ -41,10 +41,10 @@
         android:clipToPadding="false"
         android:scrollbarStyle="outsideOverlay"
         android:elevation="3dp"
-        android:paddingTop="4dp"
+        android:paddingTop="@dimen/list_top_padding"
         android:paddingLeft="@dimen/list_side_margin"
         android:paddingRight="@dimen/list_side_margin"
-        android:paddingBottom="28dp"/>
+        android:paddingBottom="@dimen/list_bottom_padding"/>
 
   </android.support.v4.widget.SwipeRefreshLayout>
 
